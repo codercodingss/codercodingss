@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ella</h1>
 <h3 align="center">I am a dedicated female student hailing from Africa, passionate about the intricate world of data and driven by the thrill of unraveling its insights.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codercodingss" alt="codercodingss" /></a> </p>
+
+
+[![codercodingss's GitHub | Stats](https://stats.quine.sh/codercodingss/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=codercodingss)
+
+
 
 - 🌱 I’m currently learning **python**
 
